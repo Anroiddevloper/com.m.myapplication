@@ -12,6 +12,9 @@ public class MainActivity extends AppCompatActivity {
 
         /*Share this comment*/
         /*NOW IN THE SKY*/
+        
+        
+        MainActivity.this;
 
     }
 }
